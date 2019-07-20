@@ -31,5 +31,7 @@ def shift_with_args(array)
 end
 
 def using_concat(things, others)
-  things =
-  others =
+  things = ["raindrops on roses", "whiskers on kittens"]
+  others = ["sports cars", "flatiron school"]
+  things.concat
+end
