@@ -1,5 +1,5 @@
 def using_push(Array, String)
   Array = ["Yarn", "Wire"]
-  String = "String"
+  String = "Stuff"
   Array.push(String)
 end
