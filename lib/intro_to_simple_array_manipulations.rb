@@ -50,5 +50,5 @@ end
 def using_flatten (array)
   array = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
   flat_array = using_flatten(array)
-  
+  array.flatten
 end
