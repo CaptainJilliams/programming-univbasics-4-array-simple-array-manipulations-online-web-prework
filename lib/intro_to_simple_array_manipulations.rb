@@ -22,5 +22,5 @@ end
 
 def using_shift(array)
   array = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
-  
+  array.shift
 end
