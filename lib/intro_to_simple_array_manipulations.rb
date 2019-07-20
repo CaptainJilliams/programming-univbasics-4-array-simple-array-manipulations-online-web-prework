@@ -19,3 +19,8 @@ def pop_with_args(array)
   array = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
   array.pop(2)
 end
+
+def using_shift(array)
+  array = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
+  
+end
