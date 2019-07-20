@@ -15,6 +15,8 @@ def using_pop(array)
   array.pop
 end
 
+using_pop.size
+
 def pop_with_args(array)
   array = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
   array.pop(2)
@@ -33,5 +35,9 @@ end
 def using_concat(things, others)
   things = ["raindrops on roses", "whiskers on kittens"]
   others = ["sports cars", "flatiron school"]
-  things.concat(others) 
+  things.concat(others)
+end
+
+def using_insert(array, element)
+
 end
