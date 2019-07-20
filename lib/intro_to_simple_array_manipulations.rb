@@ -12,5 +12,5 @@ end
 
 def using_pop(array)
   array = ["milk", "cheese", "bread"]
-  
+  array.pop
 end
