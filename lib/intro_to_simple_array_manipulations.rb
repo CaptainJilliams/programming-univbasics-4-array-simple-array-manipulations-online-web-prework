@@ -17,5 +17,4 @@ end
 def pop_with_args(array)
   array = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
   array.pop(2)
-  puts array
 end
