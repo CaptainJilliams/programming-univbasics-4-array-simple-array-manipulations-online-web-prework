@@ -17,15 +17,15 @@ end
 
 def pop_with_args(array)
   array = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
-  return array.pop(2)
+  array.pop(2)
 end
 
 def using_shift(array)
   array = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
-  return array.shift
+  array.shift
 end
 
 def shift_with_args(array)
   array = ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
-  return array.shift(2)
+  array.shift(2)
 end
