@@ -15,8 +15,6 @@ def using_pop(array)
   array.pop
 end
 
-using_pop.size
-
 def pop_with_args(array)
   array = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
   array.pop(2)
