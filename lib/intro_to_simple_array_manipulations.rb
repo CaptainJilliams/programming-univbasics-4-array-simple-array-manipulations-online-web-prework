@@ -33,5 +33,5 @@ end
 def using_concat(things, others)
   things = ["raindrops on roses", "whiskers on kittens"]
   others = ["sports cars", "flatiron school"]
-  things.concat
+  things.concat(others) 
 end
