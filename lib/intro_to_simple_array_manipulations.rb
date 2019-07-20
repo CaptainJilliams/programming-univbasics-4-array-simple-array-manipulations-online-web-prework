@@ -58,7 +58,7 @@ def using_delete (array, string)
   array.delete(string)
 end
 
-def using_delete_at(Array, Integer)
-  Array = "Johnny 5", "R2D2", "Robocop"]
-  Integer = 2 
+def using_delete_at(array, integer)
+  array = "Johnny 5", "R2D2", "Robocop"]
+  integer = 2 
 end
